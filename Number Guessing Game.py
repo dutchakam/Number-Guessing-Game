@@ -1,5 +1,6 @@
-#My Programs
-#Number Guessing Game
+# @Time    : 2021/01/25
+# @Author  : alexanderdutchak@gmail.com
+# @Software: IDLE
 
 import random
 
